@@ -1,1 +1,1 @@
-[Redux編] Redux Tool KitとReact HooksによるモダンReact フロントエンド開発
+Redux Tool KitとReact HooksによるモダンReact フロントエンド開発
